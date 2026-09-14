@@ -8,7 +8,7 @@
 Course Code    : CSE 404
 Course Title   : Machine Learning
 Course Credit  : 3 (Theory) + 1.5 (Lab)
-Classroom Code : N/A
+Classroom Code : l4jxzevp
 ```
 
 Course offered by,
