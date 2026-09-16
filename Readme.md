@@ -13,7 +13,7 @@ Classroom Code : l4jxzevp
 
 Course offered by,
 
-[**Sudipto Chaki**](https://bubt.edu.bd/department/department-of-computer-science-engineering/faculty/profile/SCK)<br>Lecturer<br>Department of Computer Science and Engineering<br>**sudipto@bubt.edu.bd**<br>
+[**Sudipto Chaki**](https://bubt.edu.bd/department/department-of-computer-science-engineering/faculty/profile/SCK)<br>Assistant Professor<br>Department of Computer Science and Engineering<br>**sudipto@bubt.edu.bd**<br>
 
 <!-- ## Course Materials
 
