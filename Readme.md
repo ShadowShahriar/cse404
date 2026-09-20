@@ -57,6 +57,7 @@ Course offered by,
 
 - [**Class 01**](https://shadowshahriar.github.io/cse404/notes/class-01.pdf): 13 September 2026
 - [**Class 02**](https://shadowshahriar.github.io/cse404/notes/class-02.pdf): 14 September 2026
+- [**Class 03**](https://shadowshahriar.github.io/cse404/notes/class-03.pdf): 20 September 2026
 
 ## Lab Notes
 
